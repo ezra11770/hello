@@ -12,4 +12,20 @@ body { /* <--- name of tag you want to affect */
 button {
   background-color: #9d80ed;
   color: white;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 10px;
+  border: none;
+}
+
+ul {
+  background-color: #98c3eb;
+  padding: 20px;
+  width: 150px;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px;
+}
+li {
+  margin-left: 20px;
 }
