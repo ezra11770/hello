@@ -1,0 +1,15 @@
+p {
+  /*this is a css comment*/
+  /* sets background color for all pargraph tags> */
+  background-color: #2d76c4;
+}
+
+body { /* <--- name of tag you want to affect */
+  background-color: #94ddf7;
+  text: #9d80ed;
+}
+
+button {
+  background-color: #9d80ed;
+  color: white;
+}
